@@ -36,7 +36,7 @@ const ContactForm: React.FC = () => {
                             contato@f2solutions.com.br
                         </InfoPoint>
                         <InfoPoint icon={<PhoneIcon className="w-8 h-8 text-blue-300" />} title="Prefere o telefone?">
-                            Ligue para (11) 99289-4013 e fale com a nossa equipe
+                            Ligue para (11) 93074-6956 e fale com a nossa equipe
                         </InfoPoint>
                     </div>
                     <div className="bg-black p-8 rounded-lg">
